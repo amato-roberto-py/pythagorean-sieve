@@ -78,3 +78,8 @@ See CLA.md and CONTRIBUTING.md.
 If you use this software in academic work, please cite the associated paper.
 
 ---
+## FAQs
+
+See [FAQ.md](FAQ.md) for frequently asked questions about theory, performance, and design choices.
+
+---
