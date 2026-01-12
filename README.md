@@ -25,11 +25,18 @@ pip install pythagorean-sieve
 
 ##  Usage
 
-```python
+python
 from pythagorean_sieve import primes_up_to, nth_prime
 
 print(primes_up_to(100))
 print(nth_prime(734))
+
+---
+
+##  Performance
+
+For performance characteristics and quantitative benchmarks,
+see [PERFORMANCE.md](PERFORMANCE.md).
 
 ---
 
