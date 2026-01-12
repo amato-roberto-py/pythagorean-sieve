@@ -20,3 +20,52 @@ The method provides:
 
 ```bash
 pip install pythagorean-sieve
+
+---
+
+## Usage
+from pythagorean_sieve import primes_up_to, nth_prime
+
+print(primes_up_to(100))
+print(nth_prime(734))
+
+---
+
+## License
+
+This project is distributed under a dual licensing model:
+
+AGPL-3.0-or-later for academic and open-source use.
+
+Commercial license available for proprietary or closed-source use.
+
+See:
+
+LICENSE
+
+COMMERCIAL_LICENSE.md
+
+---
+
+## Commercial note
+
+For commercial use or integration into proprietary software without disclosure obligations,
+please contact:
+
+Roberto Amato
+📧 amato.roberto.py@gmail.com
+
+---
+
+## Contributions
+
+Contributions are welcome only after signing a Contributor License Agreement (CLA).
+See CLA.md and CONTRIBUTING.md.
+
+---
+
+## Citation
+
+If you use this software in academic work, please cite the associated paper.
+
+---
