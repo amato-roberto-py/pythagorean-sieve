@@ -23,7 +23,7 @@ pip install pythagorean-sieve
 
 ---
 
-###  Usage
+##  Usage
 
 from pythagorean_sieve import primes_up_to, nth_prime
 
@@ -32,7 +32,7 @@ print(nth_prime(734))
 
 ---
 
-#### License
+## License
 
 This project is distributed under a dual licensing model:
 
@@ -48,7 +48,7 @@ COMMERCIAL_LICENSE.md
 
 ---
 
-##### Commercial note
+## Commercial note
 
 For commercial use or integration into proprietary software without disclosure obligations,
 please contact:
@@ -58,14 +58,14 @@ Roberto Amato
 
 ---
 
-###### Contributions
+## Contributions
 
 Contributions are welcome only after signing a Contributor License Agreement (CLA).
 See CLA.md and CONTRIBUTING.md.
 
 ---
 
-####### Citation
+## Citation
 
 If you use this software in academic work, please cite the associated paper.
 
