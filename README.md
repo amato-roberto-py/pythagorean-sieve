@@ -13,6 +13,7 @@ The method provides:
 - a modular sieve equivalent to Eratosthenes’ sieve,
 - an **ordered generator of odd primes**,
 - direct computation of the *n*-th prime.
+- Significantly reduced memory usage compared to classical array-based sieves, due to segmentation on the r-variable.
 
 ---
 
